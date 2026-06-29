@@ -69,6 +69,5 @@ No installation needed beyond what's pre-installed in Colab (NumPy is included b
 - NumPy
 - Google Colab
 
----
 
-*Built as a hands-on introduction to feature engineering and recommendation systems.*
+
